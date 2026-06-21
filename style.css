@@ -16,7 +16,7 @@ font-family:'Inter',sans-serif;
 
 .hero{
 height:100vh;
-background:url('../assets/full.jpeg');
+background:url('assets/full.jpeg');
 background-size:cover;
 background-position:center 42%;
 position:relative;
